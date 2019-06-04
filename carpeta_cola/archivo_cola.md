@@ -1,2 +1,2 @@
 Contenido de cola
-[Flujograma](/carpeta_cola/th.png)
+[Perro](/carpeta_cola/th.png)
